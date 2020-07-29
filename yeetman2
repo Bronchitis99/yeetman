@@ -1,0 +1,23 @@
+<html><head>
+	<title>Biodata Xavier</title>
+	<style>
+body {
+  background-image: url('gif1.gif');
+}
+</style>
+		<style>
+		h2
+{
+color:black;
+}
+</style>
+</head>
+<body>
+<h2><center>Hello my dudes! Welcome to my Biodata.</center></h2>
+<center><img src="img.jpg" width="256" height="256"></center>
+<h2>Nama: Xavier Walter</h2>
+<h2>Tarikh Lahir: 13.2.2003</h2>
+<h2>Hobi: Melayari Internet dengan harapan mendapat fake Internet points</h2>
+<h2>Motto: "enjoy game" - rrtyui</h2>
+
+</body></html>
